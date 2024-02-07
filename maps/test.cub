@@ -1,0 +1,19 @@
+NO                            textures/north_tex.xpm                    
+
+SO textures/south_tex.xpm
+
+EA textures/east_tex.xpm            
+
+WE textures/west_tex.xpm
+
+
+
+
+
+F 24,24,8
+C 98,7,55
+
+11111111111111111111
+10W00000000000000001
+11111111111111111111
+
